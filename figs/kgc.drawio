@@ -1,0 +1,131 @@
+<mxfile host="app.diagrams.net" modified="2023-05-24T23:28:55.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="eXRPGevFDfP8cEZQVIPv" version="21.3.0" type="google">
+  <diagram name="Page-1" id="odbAgLx99WjECu4XQ6fx">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b0Qc9LFWlHygsMem2bAA-1" value="NLP is a fileld of&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="120" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b0Qc9LFWlHygsMem2bAA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b0Qc9LFWlHygsMem2bAA-10" target="b0Qc9LFWlHygsMem2bAA-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0Qc9LFWlHygsMem2bAA-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;NLP is a field of&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b0Qc9LFWlHygsMem2bAA-11" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="b0Qc9LFWlHygsMem2bAA-14" target="b0Qc9LFWlHygsMem2bAA-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="425" />
+              <mxPoint x="230" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b0Qc9LFWlHygsMem2bAA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="b0Qc9LFWlHygsMem2bAA-14" target="b0Qc9LFWlHygsMem2bAA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0Qc9LFWlHygsMem2bAA-13" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="b0Qc9LFWlHygsMem2bAA-14" target="b0Qc9LFWlHygsMem2bAA-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="425" />
+              <mxPoint x="230" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b0Qc9LFWlHygsMem2bAA-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;&amp;lt;mask&amp;gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b0Qc9LFWlHygsMem2bAA-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;Computer Science&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b0Qc9LFWlHygsMem2bAA-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;Artificial Intelligence&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b0Qc9LFWlHygsMem2bAA-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;Computing&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b0Qc9LFWlHygsMem2bAA-20" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="b0Qc9LFWlHygsMem2bAA-23" target="b0Qc9LFWlHygsMem2bAA-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="275" />
+              <mxPoint x="110" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b0Qc9LFWlHygsMem2bAA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="b0Qc9LFWlHygsMem2bAA-23" target="b0Qc9LFWlHygsMem2bAA-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0Qc9LFWlHygsMem2bAA-22" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="b0Qc9LFWlHygsMem2bAA-23" target="b0Qc9LFWlHygsMem2bAA-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="275" />
+              <mxPoint x="110" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b0Qc9LFWlHygsMem2bAA-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;Computer Science&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b0Qc9LFWlHygsMem2bAA-24" value="&lt;font face=&quot;Times New Roman&quot;&gt;CS&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b0Qc9LFWlHygsMem2bAA-25" value="&lt;font face=&quot;Times New Roman&quot;&gt;Information Technology&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b0Qc9LFWlHygsMem2bAA-26" value="&lt;font face=&quot;Times New Roman&quot;&gt;Informatics&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G1oBBmj97trqaSzKhugJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="G1oBBmj97trqaSzKhugJ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1oBBmj97trqaSzKhugJ-8" value="wife_of" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;" connectable="0" vertex="1" parent="G1oBBmj97trqaSzKhugJ-7">
+          <mxGeometry x="-0.07" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NWWuHpSFzsb2xl14Cn1J-3" value="first_lady" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;dashed=1;" edge="1" parent="1" source="G1oBBmj97trqaSzKhugJ-1" target="G1oBBmj97trqaSzKhugJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1oBBmj97trqaSzKhugJ-1" value="Michelle Obama" style="ellipse;whiteSpace=wrap;html=1;flipH=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="20" y="530" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NWWuHpSFzsb2xl14Cn1J-4" value="president_of" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.744;exitY=0.089;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;exitPerimeter=0;" edge="1" parent="1" source="NWWuHpSFzsb2xl14Cn1J-8" target="G1oBBmj97trqaSzKhugJ-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="231.71572875254742" y="588.2842712474524" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1oBBmj97trqaSzKhugJ-3" value="U.S" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="120" y="610" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NWWuHpSFzsb2xl14Cn1J-2" value="native_of" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="G1oBBmj97trqaSzKhugJ-4" target="G1oBBmj97trqaSzKhugJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NWWuHpSFzsb2xl14Cn1J-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="G1oBBmj97trqaSzKhugJ-4" target="G1oBBmj97trqaSzKhugJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NWWuHpSFzsb2xl14Cn1J-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;born_in&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="NWWuHpSFzsb2xl14Cn1J-9">
+          <mxGeometry x="-0.2073" relative="1" as="geometry">
+            <mxPoint x="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1oBBmj97trqaSzKhugJ-4" value="Samuel L Jackson" style="ellipse;whiteSpace=wrap;html=1;flipH=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="20" y="690" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NWWuHpSFzsb2xl14Cn1J-5" value="capital_of" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="G1oBBmj97trqaSzKhugJ-5" target="G1oBBmj97trqaSzKhugJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1oBBmj97trqaSzKhugJ-5" value="Washington D.C" style="ellipse;whiteSpace=wrap;html=1;flipH=1;flipV=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="220" y="690" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NWWuHpSFzsb2xl14Cn1J-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="G1oBBmj97trqaSzKhugJ-4" target="G1oBBmj97trqaSzKhugJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NWWuHpSFzsb2xl14Cn1J-8" value="Barack Obama" style="ellipse;whiteSpace=wrap;html=1;flipH=1;flipV=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="220" y="530" width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
